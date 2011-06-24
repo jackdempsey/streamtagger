@@ -5,3 +5,6 @@ cd rubyosa
 ruby extconf.rb
 make
 sudo make install
+
+gem build *.gemspec
+gem install *.gem
