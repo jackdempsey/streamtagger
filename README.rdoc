@@ -25,6 +25,8 @@ preferred path.
 
 Streamtagger depends on a fork of the rubyosa gem (hosted at http://github.com/dramsay/rubyosa) which in turn depends on version 0.3.8.4 of the libxml-ruby gem.
 
+Also seems to have an issue with ruby 1.9 at the moment. 
+
 == INSTALL:
 
 If you haven't already, add gems.github.com to your gem sources (you only need to do this once):
